@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Welcome!</h1>
+    <hr>
+    <h3>This value is: <?= $value ?></h3>
 </body>
 </html>
